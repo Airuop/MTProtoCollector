@@ -12,6 +12,7 @@ $sources = [
     "proxyhubs",
     "ProxyDaemi",
     "proxyme",
+    "Melli_Config",
     "ProxyMTProto_tel",
     "proxyy",
     "russian_proxy",
