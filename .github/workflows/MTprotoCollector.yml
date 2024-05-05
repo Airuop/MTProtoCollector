@@ -20,8 +20,8 @@ jobs:
       - name: Execute PHP script
         run: |
           php main.php
-          git config --global user.email "helper@gmail.com"
-          git config --global user.name "helper"
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
           git config credential.helper store
           git add -A
           git commit -m "🚀 Proxies Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
