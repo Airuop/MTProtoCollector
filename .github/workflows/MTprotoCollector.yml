@@ -3,7 +3,7 @@ name: "MTproto Collector"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '30 7 * * *'
     
 jobs:
   build:
@@ -20,8 +20,8 @@ jobs:
       - name: Execute PHP script
         run: |
           php main.php
-          git config --global user.email "yebekhe@gmail.com"
-          git config --global user.name "yebekhe"
+          git config --global user.email "helper@gmail.com"
+          git config --global user.name "helper"
           git config credential.helper store
           git add -A
           git commit -m "🚀 Proxies Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
