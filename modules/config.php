@@ -24,7 +24,11 @@ $sources = [
     "proxy_kafee",
     "alephproxy",
     "YekoyekVpn",
-    "ProxyForOpeta"
-];
+    "ProxyForOpeta",
+    "TGdailivpn",
+    "MTProtomianfei",
+    "mvpnw",
+    "VPNzhilian88"
+    ];
 
 ?>
