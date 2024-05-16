@@ -1,6 +1,7 @@
 <?php
 $sources = [
     "GlypeX",
+    "Pub4You",
     "Lion_MTProto",
     "ProxyMTProto",
     "Myporoxy",
