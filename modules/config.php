@@ -3,6 +3,7 @@ $sources = [
     "GlypeX",
     "mtpro_xyz",
     "Pub4You",
+    "jackalproxy",
     "Lion_MTProto",
     "ProxyMTProto",
     "FarahProxy",
