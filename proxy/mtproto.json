@@ -16,21 +16,21 @@
             "server": "ws24.ir.sam-pars.ir.hamann-motorsports.ir.ip-market.ir.norden-co.com.misaghtalayieh.ir.tiwall.io.beferestava.ir.jahadtossee.ir.smsjob.ir.nrava.ir.f_ardanmachine.ir.killthemlmzombies.ir.nini3et.ir.vozara-furniture.ir.bazarganihamidia.market.saatchi.cloud",
             "port": "443",
             "secret": "ee32b920dffb51643028e2f6b878d4eac17777772e7370656564746573742e6e6574",
-            "name": "@PlusMTProto|\ud83c\uddf3\ud83c\uddf1"
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=ws24.ir.sam-pars.ir.hamann-motorsports.ir.ip-market.ir.norden-co.com.misaghtalayieh.ir.tiwall.io.beferestava.ir.jahadtossee.ir.smsjob.ir.nrava.ir.f_ardanmachine.ir.killthemlmzombies.ir.nini3et.ir.vozara-furniture.ir.bazarganihamidia.market.saatchi.cloud&port=443&secret=ee32b920dffb51643028e2f6b878d4eac17777772e7370656564746573742e6e6574&@PlusMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=ws24.ir.sam-pars.ir.hamann-motorsports.ir.ip-market.ir.norden-co.com.misaghtalayieh.ir.tiwall.io.beferestava.ir.jahadtossee.ir.smsjob.ir.nrava.ir.f_ardanmachine.ir.killthemlmzombies.ir.nini3et.ir.vozara-furniture.ir.bazarganihamidia.market.saatchi.cloud&port=443&secret=ee32b920dffb51643028e2f6b878d4eac17777772e7370656564746573742e6e6574&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "shirazkachiran.com.atiyesazkish.ir.fatemesaba.art.makushop.ir.mediac-loob.com.saalkala.com.iranmim.com.mali2.com.emdadcartechnic.com.exporteriran.com.samaeducational.com.ghasrenoghreh.ir.taxnafis.ir.ppramin.com.baghroshop.ir.cantonfair.ir.khorakalii.sbs",
+            "server": "behikala.com.toskala.ir.esfahk.ir.bestholdingco.com.pirouzravesh.com.blisanco.com.par-sasanat-co.com.atn.co.ir.ve-rya-co.ir.sheetplaza.ir.jayeze.com.sabkeyas.com.neginpakanco.ir.khateresazan.ir.sobhanart.ir.balonagahi.com.omidmountain.ir.mohsenshoes.sbs",
             "port": "443",
             "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
-            "name": "@MTP_roto|\ud83c\udde9\ud83c\uddea"
+            "name": "@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=shirazkachiran.com.atiyesazkish.ir.fatemesaba.art.makushop.ir.mediac-loob.com.saalkala.com.iranmim.com.mali2.com.emdadcartechnic.com.exporteriran.com.samaeducational.com.ghasrenoghreh.ir.taxnafis.ir.ppramin.com.baghroshop.ir.cantonfair.ir.khorakalii.sbs&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@MTP_roto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=behikala.com.toskala.ir.esfahk.ir.bestholdingco.com.pirouzravesh.com.blisanco.com.par-sasanat-co.com.atn.co.ir.ve-rya-co.ir.sheetplaza.ir.jayeze.com.sabkeyas.com.neginpakanco.ir.khateresazan.ir.sobhanart.ir.balonagahi.com.omidmountain.ir.mohsenshoes.sbs&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -43,30 +43,6 @@
             "name": "@proxyme|\ud83c\uddf1\ud83c\uddfb"
         },
         "link": "https:\/\/t.me\/proxy?server=dd.tgproxy.today&port=8080&secret=dd4cf9d9103e558ddbe1b73a47771c29f7&@proxyme|\ud83c\uddf1\ud83c\uddfb"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "108.165.67.107",
-            "port": "6444",
-            "secret": "eeShOJiLMzWxrArhYqKxCg",
-            "name": "@PinkProxy|\ud83c\uddf2\ud83c\uddfe"
-        },
-        "link": "https:\/\/t.me\/proxy?server=108.165.67.107&port=6444&secret=eeShOJiLMzWxrArhYqKxCg&@PinkProxy|\ud83c\uddf2\ud83c\uddfe"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "Cloudflare.Com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.virginiaa.makeup.",
-            "port": "5777",
-            "secret": "eeRigzNJvXrFGRMCIMJdEA",
-            "name": "@V2rayng_Fast|\ud83c\uddf7\ud83c\uddf4"
-        },
-        "link": "https:\/\/t.me\/proxy?server=Cloudflare.Com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.virginiaa.makeup.&port=5777&secret=eeRigzNJvXrFGRMCIMJdEA&@V2rayng_Fast|\ud83c\uddf7\ud83c\uddf4"
     },
     {
         "scheme": "https",
