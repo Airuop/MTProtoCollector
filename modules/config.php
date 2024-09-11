@@ -33,6 +33,8 @@ $sources = [
     "TGdailivpn",
     "MTProtomianfei",
     "mvpnw",
+    "proxy_GT",
+    "iej2bxb",
     "VPNzhilian88"
     ];
 
