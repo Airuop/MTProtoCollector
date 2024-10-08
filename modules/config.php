@@ -1,6 +1,8 @@
 <?php
 $sources = [
     "GlypeX",
+    "alephproxy",
+    "mvpnw",
     "mtpro_xyz",
     "Pub4You",
     "jackalproxy",
@@ -27,12 +29,10 @@ $sources = [
     "v2rayNGNeT",
     "PAINB0Y",
     "proxy_kafee",
-    "alephproxy",
     "YekoyekVpn",
     "ProxyForOpeta",
     "TGdailivpn",
     "MTProtomianfei",
-    "mvpnw",
     "proxy_GT",
     "iej2bxb",
     "VPNzhilian88"
