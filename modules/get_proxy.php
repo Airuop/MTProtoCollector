@@ -53,7 +53,7 @@ function parse_proxy($proxy, $name)
 
 function proxy_array_maker($source)
 {
-    $exception = ["alephproxy"];
+    $exception = ["test"];
     $key_limit = in_array($source, $exception) ? count(getProxies($source)) - 9 : count(getProxies($source)) - 2;
     $output = [];
     foreach (getProxies($source) as $key => $proxy) {
