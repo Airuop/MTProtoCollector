@@ -35,6 +35,15 @@ $sources = [
     "MTProtomianfei",
     "proxy_GT",
     "iej2bxb",
+    "proxy6",
+    "proxyy",
+    "darkproxy",
+    "myporoxy",
+    "proxymtprotoir",
+    "iproxy",
+    "proxy_qavi",
+    "leaderproxy",
+    "proxymtproto",
     "VPNzhilian88"
     ];
 
