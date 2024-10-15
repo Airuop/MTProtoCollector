@@ -20,7 +20,7 @@ function check_host($host)
     }
 
     $url = "https://check-host.net/check-ping";
-    $nodes = ["ir3.node.check-host.net", "ir1.node.check-host.net", "ir5.node.check-host.net", "ir6.node.check-host.net"];
+    $nodes = ["ir1.node.check-host.net", "ir3.node.check-host.net", "ir4.node.check-host.net", "ir5.node.check-host.net"];
     $params = http_build_query([
         'host' => $host,
         'node' => $nodes,
