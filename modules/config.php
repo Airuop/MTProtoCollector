@@ -36,14 +36,17 @@ $sources = [
     "proxy_GT",
     "iej2bxb",
     "proxy6",
-    "proxyy",
     "darkproxy",
     "myporoxy",
     "proxymtprotoir",
     "iproxy",
-    "proxy_qavi",
-    "leaderproxy",
     "proxymtproto",
+    "khabari_Scary",
+    "FackProxy",
+    "Proxy_Qavi",
+    "fit_proxy",
+    "LeaderProxy",
+    "Proxywalla",
     "VPNzhilian88"
     ];
 
