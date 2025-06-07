@@ -16,6 +16,7 @@ $sources = [
     "PlusMTProto",
     "MTP_roto",
     "ProxyHagh",
+    "NextGenProxy",
     "proxyhubs",
     "ProxyDaemi",
     "proxyme",
