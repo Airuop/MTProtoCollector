@@ -10,6 +10,7 @@ $sources = [
     "ProxyMTProto",
     "FarahProxy",
     "Myporoxy",
+    "irproxy",
     "Proxy_fier",
     "iMTProto",
     "TelMTProto",
