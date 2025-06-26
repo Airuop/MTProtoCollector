@@ -1,5 +1,7 @@
 <?php
 $sources = [
+    "proxyy_1404",
+    "ProxyMTProto_tel",
     "GlypeX",
     "alephproxy",
     "mvpnw",
