@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "128.140.13.248",
+            "server": "23.88.51.230",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
             "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=128.140.13.248&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=23.88.51.230&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -49,24 +49,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "147.125.130.71",
-            "port": "2083",
-            "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-            "name": "@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
+            "server": "107.189.5.55",
+            "port": "443",
+            "secret": "ee91e862f6641a65ce7a3db03de021b6cf636c6f7564666c6172652e636f6d",
+            "name": "@ProxyMTProto|\ud83c\uddf1\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=147.125.130.71&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d&@ProxyMTProto|\ud83c\udde6\ud83c\uddf9"
+        "link": "https:\/\/t.me\/proxy?server=107.189.5.55&port=443&secret=ee91e862f6641a65ce7a3db03de021b6cf636c6f7564666c6172652e636f6d&@ProxyMTProto|\ud83c\uddf1\ud83c\uddfa"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "80.78.27.46",
-            "port": "443",
-            "secret": "ee813266cd35bc505489ff0a59b9facbc5636c6f7564666c6172652e636f6d",
-            "name": "@FarahProxy|\ud83c\uddf8\ud83c\uddea"
+            "server": "195.3.222.170",
+            "port": "49097",
+            "secret": "dded820710d93759e7523a02a814b7f6e2",
+            "name": "@FarahProxy|\ud83c\uddf5\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=80.78.27.46&port=443&secret=ee813266cd35bc505489ff0a59b9facbc5636c6f7564666c6172652e636f6d&@FarahProxy|\ud83c\uddf8\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=195.3.222.170&port=49097&secret=dded820710d93759e7523a02a814b7f6e2&@FarahProxy|\ud83c\uddf5\ud83c\uddf1"
     },
     {
         "scheme": "https",
