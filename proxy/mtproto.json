@@ -40,33 +40,33 @@
             "server": "prx.today",
             "port": "443",
             "secret": "b3f0c7f6af7dc2dc2e9c80d0d80e8162",
-            "name": "@Lion_MTProto|\ud83c\uddf7\ud83c\uddfa"
+            "name": "@Lion_MTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=prx.today&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162&@Lion_MTProto|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=prx.today&port=443&secret=b3f0c7f6af7dc2dc2e9c80d0d80e8162&@Lion_MTProto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "prxygo.shop",
+            "server": "proxytelega.store",
             "port": "443",
-            "secret": "48181acd22b3edaebc8a447868a7dfcb",
+            "secret": "5d41402abc4b2a76b9719d911017c592",
             "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=prxygo.shop&port=443&secret=48181acd22b3edaebc8a447868a7dfcb&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=proxytelega.store&port=443&secret=5d41402abc4b2a76b9719d911017c592&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "www.careemian.info",
-            "port": "2083",
-            "secret": "ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d",
-            "name": "@FarahProxy|\ud83c\udde6\ud83c\uddf9"
+            "server": "Ashkoda-Best.gabrial-batistuta.shop",
+            "port": "443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "name": "@FarahProxy|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.careemian.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d&@FarahProxy|\ud83c\udde6\ud83c\uddf9"
+        "link": "https:\/\/t.me\/proxy?server=Ashkoda-Best.gabrial-batistuta.shop&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@FarahProxy|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
